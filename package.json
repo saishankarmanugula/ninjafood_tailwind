@@ -1,0 +1,22 @@
+{
+  "name": "ninjafood_tailwind",
+  "version": "1.0.0",
+  "description": "tailwind practice",
+  "main": "index.js",
+  "scripts": {
+    "build-tailwind": "tailwindcss build src/styles.css -O public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saishankarmanugula/ninjafood_tailwind.git"
+  },
+  "author": "sai shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saishankarmanugula/ninjafood_tailwind/issues"
+  },
+  "homepage": "https://github.com/saishankarmanugula/ninjafood_tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^1.6.0"
+  }
+}
